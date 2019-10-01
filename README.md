@@ -1,4 +1,4 @@
-# Insects-Classification
+# Insects Classification with sklearn
 
 Crassification through data base using 3 methods from sklearn. These methods is Decision Tree, Kneighbors and Random Forest. The results of my implemetation is shown below.
 
